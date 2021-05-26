@@ -1,1 +1,1 @@
-Random data generator for oracle database (Bookshop datatbase), written in Python.
+Random data generator connected to database (Bookshop database, on local Oracle database), written in Python.
